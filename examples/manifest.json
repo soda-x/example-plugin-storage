@@ -1,0 +1,8 @@
+{
+  "version" : "1" ,
+  "cacheList" : [
+    {"url":"http://localhost/SEAJS/a.js","version":"1"} ,
+    {"url":"http://localhost/SEAJS/b.js","version":"2"} ,
+    {"url":"http://localhost/SEAJS/c.js","version":"3"} 
+  ]
+}
